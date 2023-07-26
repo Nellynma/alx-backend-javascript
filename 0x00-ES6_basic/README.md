@@ -1,1 +1,1 @@
-0x00. ES6 Basics Project
+0x00. ES6 Basics Projects
